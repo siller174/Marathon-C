@@ -1,0 +1,5 @@
+Credentials cache: API:D5E60173-CB94-4848-A41B-587D54210F01
+        Principal: sorwyle@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Sep 18 08:30:09 2018  Sep 19 08:30:09 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
